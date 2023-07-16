@@ -1,5 +1,6 @@
 [![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsteja2307&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsteja2307)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsteja2307&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **gsteja2307/gsteja2307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
